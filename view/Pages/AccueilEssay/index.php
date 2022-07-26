@@ -28,8 +28,8 @@
             <ul class="nav_menu">
                 <li><a href="index.php"></a>Accueil</li>
                 <li><a href="about.php">Qui sommes-nous</a></li>
-                <li><a href="index.php">Nous Contacter</a></li>
-                <li><a href="index.php">Se connecter</a></li>
+                <li><a href="contact.php">Contactez-nous</a></li>
+                <li><a href="../SignIn-SignUp/signIn.php">Se connecter</a></li>
             </ul>
             <button id="open-menu-btn"><i class="uil uil-bars"></i></button>
             <button id="close-menu-btn"><i class="uil uil-multiply"></i></button>

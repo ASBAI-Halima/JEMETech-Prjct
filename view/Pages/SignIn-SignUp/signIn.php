@@ -64,7 +64,7 @@
                             <div class="button input-box">                                
                                <input type="submit" value="Connexion"> 
                             </div> 
-                            <div class="text"><label  id="insc" class="sign" for="flip">Inscription</label></div>
+                            <div class="text"><label  id="insc" class="sign" for="flip">Créer un nouveau compte</label></div>
                         </div>
                     </div>
 
@@ -104,7 +104,7 @@
                                 <input id="insc" type="submit" value="Inscription"> 
                                 
                             </div>
-                            <div class="text"><label class="sign"  for="flip">Connexion</label></div>
+                            <div class="text"><label class="sign"  for="flip">J'ai déja un compte</label></div>
                         </div>
                     </div>
 

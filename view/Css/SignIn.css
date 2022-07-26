@@ -11,17 +11,18 @@ body{
     background: #e0e0e0;
 
 }
+/* *********************** navbar ******************** */
 .menu-container
 {
     position: fixed;
     top: 0;
     width: 100%;
+    z-index:2;
 }
 .menu{
     background: #fff;
     height: 5.6rem;
-    margin: 1.2rem;
-    border-radius: 0.8rem;
+    margin: 0rem;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -142,10 +143,11 @@ body{
     font-family: "Bigilla",sans-serif;
     font-size: 2rem;
     color: #fff;
-    padding: 00.6rem 1.2rem;
+    padding: 0.6rem 1.2rem;
     background: #000;
     border-radius: 100px;
 }
+/* *********************** end navbar ******************** */
 .text-container {
     margin: 9rem 1.6rem ;
     min-height: 80vh;
@@ -163,7 +165,7 @@ body{
     color: #858585;
 }
 .container-form{
-    margin-top: 60px;
+    margin-top: 50px;
     position: relative;
     max-width: 80%;
     width: 90%;
@@ -389,6 +391,7 @@ form .form-content .button input{
 form .form-content .button input:hover{
     background-color:hsl(26, 26%, 64%) ;
 }
+/* *********************** footer ******************** */
 footer {
     display: flex;
     flex-direction: row;
@@ -444,3 +447,4 @@ footer .services{
     padding: 0 20px 0px 20px;
     margin-top: 15px;
 }
+/* *********************** end footer ******************** */
